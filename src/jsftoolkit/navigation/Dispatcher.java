@@ -1,6 +1,6 @@
-package com.medenterprise.jsftoolkit.navigation;
+package jsftoolkit.navigation;
 
-import com.medenterprise.jsftoolkit.util.FacesUtils;
+import jsftoolkit.util.FacesUtils;
 import java.io.IOException;
 import java.util.logging.Level;
 import java.util.logging.Logger;

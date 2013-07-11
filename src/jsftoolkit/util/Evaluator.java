@@ -1,4 +1,4 @@
-package com.medenterprise.jsftoolkit.util;
+package jsftoolkit.util;
 
 import java.util.ArrayList;
 import java.util.regex.Matcher;

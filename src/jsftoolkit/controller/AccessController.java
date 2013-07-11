@@ -1,10 +1,10 @@
-package com.medenterprise.jsftoolkit.controller;
+package jsftoolkit.controller;
 
 import accesscontrol.entity.Policy;
 import accesscontrol.entity.User;
 import accesscontrol.entity.UserLogin;
-import com.medenterprise.jsftoolkit.ejb.AuthenticationService;
-import com.medenterprise.jsftoolkit.util.FacesUtils;
+import jsftoolkit.ejb.AuthenticationService;
+import jsftoolkit.util.FacesUtils;
 import java.io.IOException;
 import java.util.List;
 import java.util.logging.Level;

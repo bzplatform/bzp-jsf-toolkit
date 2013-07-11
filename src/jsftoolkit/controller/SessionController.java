@@ -1,9 +1,9 @@
-package com.medenterprise.jsftoolkit.controller;
+package jsftoolkit.controller;
 
-import com.medenterprise.jsftoolkit.ejb.CrudService;
+import jsftoolkit.ejb.CrudService;
 
-import com.medenterprise.jsftoolkit.util.FacesUtils;
-import com.medenterprise.jsftoolkit.util.JsftoolkitMap;
+import jsftoolkit.util.FacesUtils;
+import jsftoolkit.util.JsftoolkitMap;
 import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.Date;

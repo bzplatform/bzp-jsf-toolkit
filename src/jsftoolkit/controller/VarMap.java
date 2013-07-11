@@ -1,4 +1,4 @@
-package com.medenterprise.jsftoolkit.controller;
+package jsftoolkit.controller;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

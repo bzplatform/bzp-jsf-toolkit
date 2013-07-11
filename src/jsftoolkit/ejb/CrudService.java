@@ -1,4 +1,4 @@
-package com.medenterprise.jsftoolkit.ejb;
+package jsftoolkit.ejb;
 
 import java.util.Calendar;
 import java.util.Date;

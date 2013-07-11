@@ -1,4 +1,4 @@
-package com.medenterprise.jsftoolkit.util;
+package jsftoolkit.util;
 
 import javax.el.*;
 import java.util.*;

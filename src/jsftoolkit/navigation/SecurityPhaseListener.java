@@ -1,7 +1,7 @@
-package com.medenterprise.jsftoolkit.navigation;
+package jsftoolkit.navigation;
 
-import com.medenterprise.jsftoolkit.controller.AccessController;
-import com.medenterprise.jsftoolkit.util.FacesUtils;
+import jsftoolkit.controller.AccessController;
+import jsftoolkit.util.FacesUtils;
 import javax.faces.event.PhaseEvent;
 import javax.faces.event.PhaseId;
 import javax.faces.event.PhaseListener;

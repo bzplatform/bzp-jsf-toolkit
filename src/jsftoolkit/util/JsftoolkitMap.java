@@ -1,4 +1,4 @@
-package com.medenterprise.jsftoolkit.util;
+package jsftoolkit.util;
 import java.util.HashMap;
 
 public class JsftoolkitMap extends HashMap {

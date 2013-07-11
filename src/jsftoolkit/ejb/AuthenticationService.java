@@ -1,4 +1,4 @@
-package com.medenterprise.jsftoolkit.ejb;
+package jsftoolkit.ejb;
 
 import accesscontrol.entity.Policy;
 import accesscontrol.entity.Role;
@@ -14,7 +14,7 @@ import javax.persistence.*;
 @Stateless
 public class AuthenticationService {
 
-   @PersistenceContext(unitName = "medoffice")
+   @PersistenceContext(unitName = "access-control")
    private EntityManager em;
 
    public User findUserByLogin(UserLogin login) {

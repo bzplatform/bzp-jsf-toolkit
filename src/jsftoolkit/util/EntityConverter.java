@@ -1,6 +1,6 @@
-package com.medenterprise.jsftoolkit.util;
+package jsftoolkit.util;
 
-import com.medenterprise.jsftoolkit.controller.SessionController;
+import jsftoolkit.controller.SessionController;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.regex.Matcher;
